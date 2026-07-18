@@ -68,18 +68,7 @@ whoami:
 </div>
 ---
  
-## 📈 Proficiency Breakdown
- 
-<div align="center">
-**Java** `████████████████████` 90%
-**Spring Boot** `██████████████████░░` 85%
-**React** `████████████████░░░░` 80%
-**PostgreSQL / SQL** `█████████████████░░░` 82%
-**DSA / Problem Solving** `███████████████████░` 92%
-**Docker / AWS** `████████████░░░░░░░░` 60% *(actively learning)*
- 
-</div>
----
+
  
 ## 🚀 Featured Projects
  
